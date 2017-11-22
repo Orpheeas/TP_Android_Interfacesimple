@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TP_AM_InterfacesSimples</string>
+    <string name="start">Start</string>
+    <string name="valid">Valider</string>
+    <string name="sport">Sports</string>
+    <string name="accueil">Accueil</string>
+    <string name="sport1">Handball</string>
+    <string name="sport2">Golf</string>
+    <string name="sport3">Rugby</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+    <string name="name">Nom</string>
+    <string name="surname">Prenom</string>
+    <string name="born">Date de naissance</string>
+    <string name="mail">Email</string>
+    <string name="adr">Adresse postale</string>
+    <string name="comm">Commentaires</string>
+</resources>
